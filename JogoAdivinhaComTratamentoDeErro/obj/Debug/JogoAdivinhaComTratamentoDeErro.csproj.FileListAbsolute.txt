@@ -1,0 +1,7 @@
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\obj\Debug\JogoAdivinhaComTratamentoDeErro.csproj.AssemblyReference.cache
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\obj\Debug\JogoAdivinhaComTratamentoDeErro.csproj.CoreCompileInputs.cache
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\bin\Debug\JogoAdivinhaComTratamentoDeErro.exe.config
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\bin\Debug\JogoAdivinhaComTratamentoDeErro.exe
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\bin\Debug\JogoAdivinhaComTratamentoDeErro.pdb
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\obj\Debug\JogoAdivinhaComTratamentoDeErro.exe
+C:\Users\gsmar\source\repos\JogoAdivinhaComTratamentoDeErro\JogoAdivinhaComTratamentoDeErro\obj\Debug\JogoAdivinhaComTratamentoDeErro.pdb
